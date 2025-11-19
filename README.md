@@ -57,24 +57,6 @@
   
 </div>
 
----
-
-## 🔥 热门仓库
-
-<div align="center">
-  
-  <a href="https://github.com/Dayuxiaoshui/rust_blockchain">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dayuxiaoshui&repo=rust_blockchain&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-  </a>
-  
-  <a href="https://github.com/Dayuxiaoshui/Embodied-AI-Guide">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dayuxiaoshui&repo=Embodied-AI-Guide&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-  </a>
-  
-</div>
-
----
-
 ## 💡 关于我
 
 - 👋 我是 **Dayuxiaoshui**，一个学习中的开发者
