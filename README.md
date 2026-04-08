@@ -27,18 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dayuxiaoshui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayuxiaoshui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
-</div>
-
----
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Dayuxiaoshui/Dayuxiaoshui/main/assets/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
