@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Hi,+I'm+Dayuxiaoshui;A+Passionate+System+Developer&center=true&size=27">
-</div>
+
 
 ---
 
